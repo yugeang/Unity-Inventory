@@ -235,8 +235,33 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6130539416820100577, guid: 1662f5b32af2055449dc84396400068c, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7528929640182575482}
   m_SourcePrefab: {fileID: 100100000, guid: 1662f5b32af2055449dc84396400068c, type: 3}
+--- !u!1 &119232138774065910 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6130539416820100577, guid: 1662f5b32af2055449dc84396400068c, type: 3}
+  m_PrefabInstance: {fileID: 6103386716845350679}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7528929640182575482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 119232138774065910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee02e0bb97966dc4bb625199f02c9bd6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHP: 100
+  currentHP: 100
+  attack: 45
+  defense: 30
+  critical: 35
 --- !u!224 &237508629539654996 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6338914567588581955, guid: 1662f5b32af2055449dc84396400068c, type: 3}
