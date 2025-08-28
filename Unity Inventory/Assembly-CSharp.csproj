@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\UI\UIMainMenu.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\Item\ItemSlot.cs" />
+    <Compile Include="Assets\Scripts\UI\PlayerPreview.cs" />
     <Compile Include="Assets\Scripts\UI\UIStatus.cs" />
     <Compile Include="Assets\Scripts\UI\UIManager.cs" />
   </ItemGroup>
