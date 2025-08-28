@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\Unity-Inventory\\Unity Inventory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|c:\\users\\\uAE40\uC720\uACBD\\desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\unity-inventory\\unity inventory\\assets\\scripts\\ui\\playerpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\playerpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|c:\\users\\\uAE40\uC720\uACBD\\desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\unity-inventory\\unity inventory\\assets\\scripts\\item\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\Unity-Inventory\\Unity Inventory\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\Unity-Inventory\\Unity Inventory\\assets\\scripts\\ui\\uimainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,15 +15,27 @@
       "RelativeMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uistatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\Unity-Inventory\\Unity Inventory\\assets\\scripts\\item\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\Unity-Inventory\\Unity Inventory\\assets\\scripts\\item\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\Unity-Inventory\\Unity Inventory\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\Unity-Inventory\\Unity Inventory\\assets\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\Unity-Inventory\\Unity Inventory\\assets\\scripts\\ui\\uiinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|c:\\users\\\uAE40\uC720\uACBD\\desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\unity-inventory\\unity inventory\\assets\\scripts\\ui\\playerpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\playerpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|c:\\users\\\uAE40\uC720\uACBD\\desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\unity-inventory\\unity inventory\\assets\\scripts\\ui\\uiinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC65285F-3F90-E3DF-CB00-0C50ECA224E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uiinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,11 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "UIInventory.cs",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\Unity-Inventory\\Unity Inventory\\Assets\\Scripts\\UI\\UIInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIInventory.cs",
+              "ToolTip": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\Unity-Inventory\\Unity Inventory\\Assets\\Scripts\\UI\\UIInventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:20:16.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "PlayerPreview.cs",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\Unity-Inventory\\Unity Inventory\\Assets\\Scripts\\UI\\PlayerPreview.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PlayerPreview.cs",
@@ -63,19 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UIInventory.cs",
-              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\Unity-Inventory\\Unity Inventory\\Assets\\Scripts\\UI\\UIInventory.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIInventory.cs",
-              "ToolTip": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\Unity-Inventory\\Unity Inventory\\Assets\\Scripts\\UI\\UIInventory.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\UIInventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:34:17.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "ItemData.cs",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\Unity-Inventory\\Unity Inventory\\Assets\\Scripts\\Item\\ItemData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Item\\ItemData.cs",
@@ -83,11 +84,12 @@
               "RelativeToolTip": "Assets\\Scripts\\Item\\ItemData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:34:09.159Z"
+              "WhenOpened": "2025-08-28T06:34:09.159Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ItemSlot.cs",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\Unity-Inventory\\Unity Inventory\\Assets\\Scripts\\Item\\ItemSlot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Item\\ItemSlot.cs",
@@ -100,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "UIStatus.cs",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\Unity-Inventory\\Unity Inventory\\Assets\\Scripts\\UI\\UIStatus.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIStatus.cs",
@@ -108,11 +110,12 @@
               "RelativeToolTip": "Assets\\Scripts\\UI\\UIStatus.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T11:08:37.358Z"
+              "WhenOpened": "2025-08-27T11:08:37.358Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\Unity-Inventory\\Unity Inventory\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -120,23 +123,25 @@
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T08:43:33.618Z"
+              "WhenOpened": "2025-08-27T08:43:33.618Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "UIMainMenu.cs",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\Unity-Inventory\\Unity Inventory\\Assets\\Scripts\\UI\\UIMainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIMainMenu.cs",
               "ToolTip": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\Unity-Inventory\\Unity Inventory\\Assets\\Scripts\\UI\\UIMainMenu.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\UIMainMenu.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAxwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvx8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T06:44:02.281Z"
+              "WhenOpened": "2025-08-27T06:44:02.281Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UIManager.cs",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\Unity-Inventory\\Unity Inventory\\Assets\\Scripts\\UI\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
@@ -144,11 +149,12 @@
               "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAAwEEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T05:52:33.246Z"
+              "WhenOpened": "2025-08-27T05:52:33.246Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Character.cs",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\github\\Unity-Inventory\\Unity Inventory\\Assets\\Scripts\\Character.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Character.cs",
@@ -156,7 +162,8 @@
               "RelativeToolTip": "Assets\\Scripts\\Character.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T05:41:47.271Z"
+              "WhenOpened": "2025-08-27T05:41:47.271Z",
+              "EditorCaption": ""
             }
           ]
         }
